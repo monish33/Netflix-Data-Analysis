@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Analysis of Movie data across various streaming platforms
 
-# # Project overview:
 
 
 # In[1]:
